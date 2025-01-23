@@ -4,7 +4,7 @@ En este programa se puede agregar los nombres de amigos para luego seleccionar u
 
 ![Pantalla de Inicaio](https://github.com/user-attachments/assets/ee8a4c39-a236-4359-8658-9a364ad99da2)
 
-
+Link del proyecto: https://lucasisac.github.io/Amigo-Secreto/
 
 ## Funcionalidades del proyecto
 
